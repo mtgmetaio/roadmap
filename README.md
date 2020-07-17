@@ -6,3 +6,35 @@
 # Roadmap
 
 Implementations, upgrades or fixes that are planned to be made.
+
+- [/General](#general)
+- [/users](#/users)
+- [/decks](#/decks)
+- [/tournaments](#/tournaments)
+- [/metagame](#/metagame)
+- [/api](#/api)
+- [/live](#/live)
+- [/sideboard](#/sideboard)
+
+
+## General
+
+
+## /users
+* [] Possibility of assign an event to multiple matches
+* [] Include in the stats: vs opponent statistics
+
+## /decks
+
+## /tournaments
+
+## /metagame
+
+* [x] ~~Sort fields for metagame chart~~
+
+## /api
+
+## /live
+
+## /sideboard
+
