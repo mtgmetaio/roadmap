@@ -1,3 +1,5 @@
+[<img src="https://raw.githubusercontent.com/mtgmetaio/Read-me-first/master/mtgmetalogo.jpg">](https://mtgmeta.io)
+
 ### Important links
 
 * [mtgmeta.io :chart_with_upwards_trend:](https://mtgmeta.io)
