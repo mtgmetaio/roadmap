@@ -29,6 +29,7 @@ Implementations, upgrades or fixes that are planned to be made. Usually top item
 * [ ] Include in the stats: vs opponent statistics
 * [ ] Import matches from mtgo
 * [ ] Export user data
+* [ ] Merge user decks
 * [x] ~~Include games turn average on user stats~~ [changelog 2020-06-29](https://github.com/mtgmetaio/changelog#2020-06-29)
 * [x] ~~User when inserting multiple matches error to which match~~ [changelog 2020-03-12](https://github.com/mtgmetaio/changelog#2020-03-12)
 * [x] ~~Deck autocomplete suggestions with fuzzy search~~ [changelog 2020-03-12](https://github.com/mtgmetaio/changelog#2020-03-12)
@@ -42,6 +43,7 @@ Implementations, upgrades or fixes that are planned to be made. Usually top item
 * [x] ~~deck history with periods and continue charts~~ [changelog 2020-01-27](https://github.com/mtgmetaio/changelog#2020-01-27)
 
 ## /tournaments
+* [ ] Show meta chart when in the same day as the event
 * [x] ~~Meta performance chart for events with more than top8 matches~~
 * [x] ~~Metagame share when more than top8~~
 
@@ -52,7 +54,7 @@ Implementations, upgrades or fixes that are planned to be made. Usually top item
 * [x] ~~Implementation of what deck to take based on metagame shares~~ [changelog 2019-08-06](https://github.com/mtgmetaio/changelog#2019-08-06)
 
 ## /api
-* [] Filter by eras (api/decks, api/tournaments, api/metagame)
+* [ ] Filter by eras (api/decks, api/tournaments, api/metagame)
 
 ## /live
 * [ ] Manage full event __Probably will never go live because of mtgmelee__
@@ -62,6 +64,6 @@ Implementations, upgrades or fixes that are planned to be made. Usually top item
 * [x] ~~Event insertion
 
 ## /sideboard
-* [ ] Implement mainpage for sideboard guide
+* [ ] Implement main page for sideboard guide
 * [ ] User insertion guides
 
