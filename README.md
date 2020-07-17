@@ -61,7 +61,7 @@ Implementations, upgrades or fixes that are planned to be made. Usually top item
 * [x] ~~Import .csv from walter and parse matches/users~~ 
 * [x] ~~live deck/user search~~
 * [x] ~~deck insertion~~
-* [x] ~~Event insertion
+* [x] ~~Event insertion~~
 
 ## /sideboard
 * [ ] Implement main page for sideboard guide
