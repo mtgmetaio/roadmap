@@ -1,9 +1,8 @@
 [<img src="https://raw.githubusercontent.com/mtgmetaio/Read-me-first/master/mtgmetalogo.jpg">](https://mtgmeta.io)
 
-### Important links
+### Main read me link
 
-* [mtgmeta.io :chart_with_upwards_trend:](https://mtgmeta.io)
-* [mtgmeta.io github read-me](https://github.com/mtgmetaio/Read-me-first)
+[Read me](https://github.com/mtgmetaio/Read-me-first)
 
 # Roadmap
 
