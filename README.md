@@ -31,6 +31,8 @@ Implementations, upgrades or fixes that are planned to be made. Usually top item
 * [ ] Import matches from mtgo
 * [ ] Export user data
 * [ ] Merge user decks
+* [ ] Change deck when editing match
+* [ ] User decklists from /decks be identified and cards thumbs
 * [x] ~~Include games turn average on user stats~~ [changelog 2020-06-29](https://github.com/mtgmetaio/changelog#2020-06-29)
 * [x] ~~User when inserting multiple matches error to which match~~ [changelog 2020-03-12](https://github.com/mtgmetaio/changelog#2020-03-12)
 * [x] ~~Deck autocomplete suggestions with fuzzy search~~ [changelog 2020-03-12](https://github.com/mtgmetaio/changelog#2020-03-12)
