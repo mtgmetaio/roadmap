@@ -26,13 +26,14 @@ Implementations, upgrades or fixes that are planned to be made. Usually top item
 * [x] ~~Mana cost added to cards~~ [changelog 2020-02-11](https://github.com/mtgmetaio/changelog#2020-02-11)
 
 ## /users
-* [ ] Possibility of assign an event to multiple matches
+
 * [ ] Include in the stats: vs opponent statistics
 * [ ] Import matches from mtgo
 * [ ] Export user data
-* [ ] Merge user decks
 * [ ] Change deck when editing match
 * [ ] User decklists from /decks be identified and cards thumbs
+* [x] ~~Merge user decks~~ [changelog 2020-07-22](https://github.com/mtgmetaio/changelog#2020-07-22)
+* [x] ~~Possibility of assign an event to multiple matches~~ [changelog 2020-07-22](https://github.com/mtgmetaio/changelog#2020-07-22)
 * [x] ~~Include games turn average on user stats~~ [changelog 2020-06-29](https://github.com/mtgmetaio/changelog#2020-06-29)
 * [x] ~~User when inserting multiple matches error to which match~~ [changelog 2020-03-12](https://github.com/mtgmetaio/changelog#2020-03-12)
 * [x] ~~Deck autocomplete suggestions with fuzzy search~~ [changelog 2020-03-12](https://github.com/mtgmetaio/changelog#2020-03-12)
@@ -46,7 +47,7 @@ Implementations, upgrades or fixes that are planned to be made. Usually top item
 * [x] ~~deck history with periods and continue charts~~ [changelog 2020-01-27](https://github.com/mtgmetaio/changelog#2020-01-27)
 
 ## /tournaments
-* [ ] Show meta chart when in the same day as the event
+* [x] ~~Show meta chart when in the same day as the event~~ [changelog 2020-07-22](https://github.com/mtgmetaio/changelog#2020-07-22)
 * [x] ~~Meta performance chart for events with more than top8 matches~~
 * [x] ~~Metagame share when more than top8~~
 
@@ -57,10 +58,10 @@ Implementations, upgrades or fixes that are planned to be made. Usually top item
 * [x] ~~Implementation of what deck to take based on metagame shares~~ [changelog 2019-08-06](https://github.com/mtgmetaio/changelog#2019-08-06)
 
 ## /api
-* [ ] Filter by eras (api/decks, api/tournaments, api/metagame)
+* [x] ~~Filter by eras (api/decks, api/tournaments, api/metagame)~~ [changelog 2020-07-22](https://github.com/mtgmetaio/changelog#2020-07-22)
 
 ## /live
-* [ ] Manage full event __Probably will never go live because of mtgmelee__
+* [ ] ~~Manage full event~~ __Probably will never go live because of mtgmelee__
 * [x] ~~Import .csv from walter and parse matches/users~~ 
 * [x] ~~live deck/user search~~
 * [x] ~~deck insertion~~
