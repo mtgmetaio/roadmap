@@ -14,7 +14,7 @@ Implementations, upgrades or fixes that are planned to be made. Usually top item
 - [/tournaments](#/tournaments)
 - [/metagame](#/metagame)
 - [/api](#/api)
-- [/live](#/live)
+- ~~[/live](#/live)~~
 - [/sideboard](#/sideboard)
 
 
@@ -28,11 +28,11 @@ Implementations, upgrades or fixes that are planned to be made. Usually top item
 ## /users
 
 * [ ] Include in the stats: vs opponent statistics
-* [ ] Import matches from mtgo
-* [ ] Export user data
-* [ ] Change deck when editing match
-* [ ] See match log from matches imported from the mtgo importer
 * [ ] User decklists from /decks be identified and cards thumbs
+* [ ] Export user data
+* [x] ~~Import matches from mtgo~~ [changelog 2020-08-01](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-08-01)
+* [x] ~~Change deck when editing match~~ [changelog 2020-08-01](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-08-01)
+* [x] ~~See match log from matches imported from the mtgo importer~~ [changelog 2020-08-01](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-08-01)
 * [x] ~~Merge user decks~~ [changelog 2020-07-22](https://github.com/mtgmetaio/changelog#2020-07-22)
 * [x] ~~Possibility of assign an event to multiple matches~~ [changelog 2020-07-22](https://github.com/mtgmetaio/changelog#2020-07-22)
 * [x] ~~Include games turn average on user stats~~ [changelog 2020-06-29](https://github.com/mtgmetaio/changelog#2020-06-29)
@@ -61,8 +61,8 @@ Implementations, upgrades or fixes that are planned to be made. Usually top item
 ## /api
 * [x] ~~Filter by eras (api/decks, api/tournaments, api/metagame)~~ [changelog 2020-07-22](https://github.com/mtgmetaio/changelog#2020-07-22)
 
-## /live
-* [ ] ~~Manage full event~~ __Probably will never go live because of mtgmelee__
+~~## /live
+~~* [ ] ~~Manage full event __will never go live because of mtgmelee__
 * [x] ~~Import .csv from walter and parse matches/users~~ 
 * [x] ~~live deck/user search~~
 * [x] ~~deck insertion~~
