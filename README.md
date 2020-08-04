@@ -21,6 +21,8 @@ Implementations, upgrades or fixes that are planned to be made. Usually top item
 ## General
 * [ ] Easy decklist suggestion by users
 * [ ] Arena matches importer
+* [ ] Metagame filter by just 1 day (currently, minimum of 2days)
+* [ ] Mobile see cards image 
 * [x] ~~Grid or list view for all sections /decks, /tournaments, /users~~ [changelog 2020-05-26](https://github.com/mtgmetaio/changelog#2020-05-26)
 * [x] ~~elo tracking for SCG and GP~~ [changelog 2020-03-12](https://github.com/mtgmetaio/changelog#2020-03-12)
 * [x] ~~Mana cost added to cards~~ [changelog 2020-02-11](https://github.com/mtgmetaio/changelog#2020-02-11)
