@@ -30,6 +30,8 @@ Implementations, upgrades or fixes that are planned to be made. Usually top item
 
 * [ ] Include in the stats: vs opponent statistics
 * [ ] User decklists from /decks be identified and cards thumbs
+* [ ] mtgo importer option to select the userdeck to merge into
+* [ ] mtgo importer change match result
 * [ ] Export user data
 * [x] ~~Import matches from mtgo~~ [changelog 2020-08-01](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-08-01)
 * [x] ~~Change deck when editing match~~ [changelog 2020-08-01](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-08-01)
