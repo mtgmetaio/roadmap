@@ -20,8 +20,8 @@ Implementations, upgrades or fixes that are planned to be made. Usually top item
 ## General
 * [ ] Easy decklist suggestion by users
 * [ ] Arena matches importer
-* [ ] Metagame filter by just 1 day (currently, minimum of 2days)
 * [ ] Mobile see cards image 
+* [x] Metagame filter by just 1 day (currently, minimum of 2days) [changelog 2020-08-08](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-08-08)
 * [x] ~~Grid or list view for all sections /decks, /tournaments, /users~~ [changelog 2020-05-26](https://github.com/mtgmetaio/changelog#2020-05-26)
 * [x] ~~elo tracking for SCG and GP~~ [changelog 2020-03-12](https://github.com/mtgmetaio/changelog#2020-03-12)
 * [x] ~~Mana cost added to cards~~ [changelog 2020-02-11](https://github.com/mtgmetaio/changelog#2020-02-11)
@@ -30,9 +30,9 @@ Implementations, upgrades or fixes that are planned to be made. Usually top item
 
 * [ ] Include in the stats: vs opponent statistics
 * [ ] User decklists from /decks be identified and cards thumbs
-* [ ] mtgo importer option to select the userdeck to merge into
-* [ ] mtgo importer change match result
 * [ ] Export user data
+* [x] mtgo importer option to select the userdeck to merge into [changelog 2020-08-08](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-08-08)
+* [x] mtgo importer change match result [changelog 2020-08-08](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-08-08)
 * [x] ~~Import matches from mtgo~~ [changelog 2020-08-01](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-08-01)
 * [x] ~~Change deck when editing match~~ [changelog 2020-08-01](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-08-01)
 * [x] ~~See match log from matches imported from the mtgo importer~~ [changelog 2020-08-01](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-08-01)
