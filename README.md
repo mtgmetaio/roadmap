@@ -18,6 +18,7 @@ Implementations, upgrades or fixes that are planned to be made. Usually top item
 
 
 ## General
+* [ ] Add historic format tracking
 * [ ] Easy decklist suggestion by users
 * [ ] Arena matches importer
 * [ ] Mobile see cards image 
