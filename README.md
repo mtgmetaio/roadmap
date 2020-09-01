@@ -42,7 +42,7 @@ Implementations, upgrades or fixes that are planned to be made. Usually top item
 * [ ] Mtgo importer define strickeir or loosier auto deck identification
 * [ ] Mtgo importer define formats to search
 * [x] ~~mtgo importer option to select the userdeck to merge into~~ [changelog 2020-08-08](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-08-08)
-* [x] ~~mtgo importer change match result [changelog 2020-08-08]~~(https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-08-08)
+* [x] ~~mtgo importer change match result~~ [changelog 2020-08-08](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-08-08)
 * [x] ~~Import matches from mtgo~~ [changelog 2020-08-01](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-08-01)
 * [x] ~~Change deck when editing match~~ [changelog 2020-08-01](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-08-01)
 * [x] ~~See match log from matches imported from the mtgo importer~~ [changelog 2020-08-01](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-08-01)
