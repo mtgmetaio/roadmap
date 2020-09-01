@@ -27,7 +27,7 @@ Implementations, upgrades or fixes that are planned to be made. Usually top item
 * [ ] auto upload matches from mtgo with app
 * [ ] Deck/tournament screenshot from deck link for social media
 * [ ] decklist suggestion
-* [x] ~~Add historic format tracking [changelog 2020-08-30]~~(https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-08-30)
+* [x] ~~Add historic format tracking [changelog 2020-08-30]~~ [changelog 2020-08-31](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-08-30)
 * [x] ~~Metagame filter by just 1 day (currently, minimum of 2days)~~ [changelog 2020-08-08](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-08-08)
 * [x] ~~Grid or list view for all sections /decks, /tournaments, /users~~ [changelog 2020-05-26](https://github.com/mtgmetaio/changelog#2020-05-26)
 * [x] ~~elo tracking for SCG and GP~~ [changelog 2020-03-12](https://github.com/mtgmetaio/changelog#2020-03-12)
