@@ -40,8 +40,8 @@ Implementations, upgrades or fixes that are planned to be made. Usually top item
 * [ ] User decklists from /decks be identified and cards thumbs
 * [ ] Export user data
 * [ ] live mtgo info tracker
-* [ ] Mtgo importer define strickeir or loosier auto deck identification
-* [ ] Mtgo importer define formats to search
+* [x] ~~Mtgo importer define strickier or loosier auto deck identification~~  [changelog 2020-09-03](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-09-03)
+* [x] ~~Mtgo importer define formats to search~~ [changelog 2020-09-03](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-09-03)
 * [x] ~~mtgo importer option to select the userdeck to merge into~~ [changelog 2020-08-08](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-08-08)
 * [x] ~~mtgo importer change match result~~ [changelog 2020-08-08](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-08-08)
 * [x] ~~Import matches from mtgo~~ [changelog 2020-08-01](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-08-01)
