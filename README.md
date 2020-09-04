@@ -26,8 +26,7 @@ Implementations, upgrades or fixes that are planned to be made. Usually top item
 * [ ] Live info tracker app for arena and mtgo
 * [ ] auto upload matches from mtgo with app
 * [ ] Deck/tournament screenshot from deck link for social media
-* [ ] decklist suggestion
-* [ ] Card stats on /metagame.
+* [ ] send decklist suggestion
 * [x] ~~Add historic format tracking [changelog 2020-08-30]~~ [changelog 2020-08-31](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-08-30)
 * [x] ~~Metagame filter by just 1 day (currently, minimum of 2days)~~ [changelog 2020-08-08](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-08-08)
 * [x] ~~Grid or list view for all sections /decks, /tournaments, /users~~ [changelog 2020-05-26](https://github.com/mtgmetaio/changelog#2020-05-26)
@@ -63,6 +62,7 @@ Implementations, upgrades or fixes that are planned to be made. Usually top item
 * [ ] Cardlist separated by card types
 * [ ] Deck simple stats (cmc)
 * [ ] Deck export visual view
+* [ ] Archetype deck name suggestion/alterion
 * [x] ~~Fix deck export to arena~~ [changelog 2020-06-29](https://github.com/mtgmetaio/changelog#2020-06-29)
 * [x] ~~Deck filtering~~ [changelog 2020-03-23](https://github.com/mtgmetaio/changelog#2020-03-23)
 * [x] ~~deck history with periods and continue charts~~ [changelog 2020-01-27](https://github.com/mtgmetaio/changelog#2020-01-27)
@@ -73,6 +73,7 @@ Implementations, upgrades or fixes that are planned to be made. Usually top item
 * [x] ~~Metagame share when more than top8~~
 
 ## /metagame
+* [ ] Card stats (most played) on /metagame.
 * [x] ~~drag lines of metagame chart~~ [changelog 2020-05-26](https://github.com/mtgmetaio/changelog#2020-05-26)
 * [x] ~~Sort fields for metagame chart~~ [changelog 2020-02-11](https://github.com/mtgmetaio/changelog#2020-02-11)
 * [x] ~~Mix decks together as one to see joined stats~~ [changelog 2019-12-08](https://github.com/mtgmetaio/changelog#2019-12-08)
