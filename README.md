@@ -40,6 +40,7 @@ Implementations, upgrades or fixes that are planned to be made. Usually top item
 * [ ] User decklists from /decks be identified and cards thumbs
 * [ ] Export user data
 * [ ] live mtgo info tracker
+* [ ] in [/tools](https://mtgmeta.io/users/tools) Calculators for land drops, probability of card appearing - together OR alone
 * [x] ~~Mtgo importer define strickier or loosier auto deck identification~~  [changelog 2020-09-03](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-09-03)
 * [x] ~~Mtgo importer define formats to search~~ [changelog 2020-09-03](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-09-03)
 * [x] ~~mtgo importer option to select the userdeck to merge into~~ [changelog 2020-08-08](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-08-08)
@@ -57,6 +58,11 @@ Implementations, upgrades or fixes that are planned to be made. Usually top item
 * [x] ~~User tracking stats (decks, matches,events, stats)~~
 
 ## /decks
+* [ ] Simple goldfish playtest
+* [ ] Deck visual view
+* [ ] Cardlist separated by card types
+* [ ] Deck simple stats (cmc)
+* [ ] Deck export visual view
 * [x] ~~Fix deck export to arena~~ [changelog 2020-06-29](https://github.com/mtgmetaio/changelog#2020-06-29)
 * [x] ~~Deck filtering~~ [changelog 2020-03-23](https://github.com/mtgmetaio/changelog#2020-03-23)
 * [x] ~~deck history with periods and continue charts~~ [changelog 2020-01-27](https://github.com/mtgmetaio/changelog#2020-01-27)
