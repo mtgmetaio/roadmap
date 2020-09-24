@@ -62,7 +62,7 @@ Implementations, upgrades or fixes that are planned to be made. Usually top item
 * [x] ~~Deck visual view~~ [changelog 2020-09-24](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-09-24)
 * [x] ~~Cardlist separated by card types~~ [changelog 2020-09-24](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-09-24)
 * [x] ~~Deck simple stats (cmc)~~ [changelog 2020-09-24](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-09-24)
-* [x] ~~Deck visual view [changelog~~ 2020-09-24](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-09-24)
+* [x] ~~Deck visual view~~ [changelog 2020-09-24](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-09-24)
 * [x] ~~Fix deck export to arena~~ [changelog 2020-06-29](https://github.com/mtgmetaio/changelog#2020-06-29)
 * [x] ~~Deck filtering~~ [changelog 2020-03-23](https://github.com/mtgmetaio/changelog#2020-03-23)
 * [x] ~~deck history with periods and continue charts~~ [changelog 2020-01-27](https://github.com/mtgmetaio/changelog#2020-01-27)
