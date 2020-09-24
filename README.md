@@ -57,23 +57,24 @@ Implementations, upgrades or fixes that are planned to be made. Usually top item
 * [x] ~~User tracking stats (decks, matches,events, stats)~~
 
 ## /decks
-* [ ] Simple goldfish playtest
-* [ ] Deck visual view
-* [ ] Cardlist separated by card types
-* [ ] Deck simple stats (cmc)
-* [ ] Deck export visual view
-* [ ] Archetype deck name suggestion/alterion
+* [ ] Archetype deck name suggestion/alteration
+* [x] ~~Simple goldfish playtest~~ [changelog 2020-09-24](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-09-24)
+* [x] ~~Deck visual view~~ [changelog 2020-09-24](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-09-24)
+* [x] ~~Cardlist separated by card types~~ [changelog 2020-09-24](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-09-24)
+* [x] ~~Deck simple stats (cmc)~~ [changelog 2020-09-24](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-09-24)
+* [x] ~~Deck visual view [changelog~~ 2020-09-24](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-09-24)
 * [x] ~~Fix deck export to arena~~ [changelog 2020-06-29](https://github.com/mtgmetaio/changelog#2020-06-29)
 * [x] ~~Deck filtering~~ [changelog 2020-03-23](https://github.com/mtgmetaio/changelog#2020-03-23)
 * [x] ~~deck history with periods and continue charts~~ [changelog 2020-01-27](https://github.com/mtgmetaio/changelog#2020-01-27)
 
 ## /tournaments
+* [x] ~~Card stats top8 (most played) on tournament.~~ [changelog 2020-09-24](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-09-24)
 * [x] ~~Show meta chart when in the same day as the event~~ [changelog 2020-07-22](https://github.com/mtgmetaio/changelog#2020-07-22)
 * [x] ~~Meta performance chart for events with more than top8 matches~~
 * [x] ~~Metagame share when more than top8~~
 
 ## /metagame
-* [ ] Card stats (most played) on /metagame.
+* [x] ~~Card stats (most played) on /metagame.~~ [changelog 2020-09-24](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-09-24)
 * [x] ~~drag lines of metagame chart~~ [changelog 2020-05-26](https://github.com/mtgmetaio/changelog#2020-05-26)
 * [x] ~~Sort fields for metagame chart~~ [changelog 2020-02-11](https://github.com/mtgmetaio/changelog#2020-02-11)
 * [x] ~~Mix decks together as one to see joined stats~~ [changelog 2019-12-08](https://github.com/mtgmetaio/changelog#2019-12-08)
