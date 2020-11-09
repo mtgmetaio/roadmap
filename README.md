@@ -39,6 +39,7 @@ Implementations, upgrades or fixes that are planned to be made. Usually top item
 * [ ] User decklists from /decks be identified and cards thumbs
 * [ ] Export user data
 * [ ] live mtgo info tracker
+* [ ] premium users suggest best deck expected performance
 * [ ] in [/tools](https://mtgmeta.io/users/tools) Calculators for land drops, probability of card appearing - together OR alone
 * [x] ~~Mtgo importer define strickier or loosier auto deck identification~~  [changelog 2020-09-03](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-09-03)
 * [x] ~~Mtgo importer define formats to search~~ [changelog 2020-09-03](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-09-03)
