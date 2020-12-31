@@ -21,12 +21,16 @@ Implementations, upgrades or fixes that are planned to be made. Usually top item
 
 * [ ] Easy decklist suggestion by users
 * [ ] Arena matches importer
-* [ ] Mobile see cards image 
-* [ ] New calculators for users
+* [ ] New calculators for users on [/users/tools](https://mtgmeta.io/users/tools)
 * [ ] Live info tracker app for arena and mtgo
-* [ ] auto upload matches from mtgo with app
+* [ ] auto upload matches from mtgo with mtgmeta companion app
+* [ ] auto upload matches from arena with mtgmeta companion app
 * [ ] Deck/tournament screenshot from deck link for social media
 * [ ] send decklist suggestion
+* [ ] decklist image easily share (no manual screenshot)
+* [ ] for [premium users](https://www.patreon.com/mtgmeta) auto suggest best deck to take to an event based on decks the user has for each format
+* [ ] aditional stats for metagame - meta share cross with percentages with rock/paper/scissors semi-analysis
+* [ ] design upgrades for a better user experience
 * [x] ~~Add historic format tracking [changelog 2020-08-30]~~ [changelog 2020-08-31](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-08-30)
 * [x] ~~Metagame filter by just 1 day (currently, minimum of 2days)~~ [changelog 2020-08-08](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-08-08)
 * [x] ~~Grid or list view for all sections /decks, /tournaments, /users~~ [changelog 2020-05-26](https://github.com/mtgmetaio/changelog#2020-05-26)
@@ -36,7 +40,7 @@ Implementations, upgrades or fixes that are planned to be made. Usually top item
 ## /users
 
 * [ ] Include in the stats: vs opponent statistics
-* [ ] User decklists from /decks be identified and cards thumbs
+* [ ] User decklists from /decks be auto identified and cards thumbs
 * [ ] Export user data
 * [ ] live mtgo info tracker
 * [ ] premium users suggest best deck expected performance
@@ -87,4 +91,11 @@ Implementations, upgrades or fixes that are planned to be made. Usually top item
 ## /sideboard
 * [ ] Implement main page for sideboard guide
 * [ ] User insertion guides
+* [ ] include sideboard suggestion in the mtgo/arena app
+* [ ] Mobile app for easy sideboard guide verification
+
+## mtgmeta companion app
+* [ ] vs user previous interaction
+* [ ] vs users deck might be playing
+
 
