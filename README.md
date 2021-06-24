@@ -27,7 +27,6 @@ Implementations, upgrades or fixes that are planned to be made. Usually top item
 * [ ] auto upload matches from arena with mtgmeta companion app
 * [ ] Deck/tournament screenshot from deck link for social media
 * [ ] send decklist suggestion
-* [ ] decklist image easily share (no manual screenshot)
 * [ ] for [premium users](https://www.patreon.com/mtgmeta) auto suggest best deck to take to an event based on decks the user has for each format
 * [ ] aditional stats for metagame - meta share cross with percentages with rock/paper/scissors semi-analysis
 * [ ] design upgrades for a better user experience
@@ -73,6 +72,7 @@ Implementations, upgrades or fixes that are planned to be made. Usually top item
 * [x] ~~deck history with periods and continue charts~~ [changelog 2020-01-27](https://github.com/mtgmetaio/changelog#2020-01-27)
 
 ## /tournaments
+* [x] ~~Possibility of mixing tournament stats ~~ [changelog 2021-06-21](https://github.com/mtgmetaio/changelog#2021-06-24)
 * [x] ~~Card stats top8 (most played) on tournament.~~ [changelog 2020-09-24](https://github.com/mtgmetaio/changelog/blob/master/README.md#2020-09-24)
 * [x] ~~Show meta chart when in the same day as the event~~ [changelog 2020-07-22](https://github.com/mtgmetaio/changelog#2020-07-22)
 * [x] ~~Meta performance chart for events with more than top8 matches~~
